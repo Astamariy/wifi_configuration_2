@@ -1,3 +1,7 @@
+## 1.0.8+1
+
+## Fix iOS pod install
+
 ## 1.0.8
 
 ## Check whether Wifi is enabled or disabled
